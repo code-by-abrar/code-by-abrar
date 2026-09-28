@@ -4,12 +4,6 @@
 
 <h3 align="center">AI/ML Engineer | Generative AI | Agentic AI 🤖</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-by-abrar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/code-by-abrar?tab=followers"><img src="https://img.shields.io/github/followers/code-by-abrar?label=Followers&style=social" alt="Followers"></a>
-</div>
-
-<br>
 
 ## 🚀 About Me
 
